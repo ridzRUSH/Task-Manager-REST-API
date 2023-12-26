@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "builds": [{ "src": "./app.js", "use": "@varcel/node" }],
+  "builds": [{ "src": "./src/app.js", "use": "@varcel/node" }],
   "routes": [
     {
       "src": "/(.*)",
